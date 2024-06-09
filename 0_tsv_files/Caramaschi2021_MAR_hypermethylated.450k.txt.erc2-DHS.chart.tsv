@@ -1,0 +1,40 @@
+Zscore	Pvalue	Cell	Tissue	Datatype	File	Probe	Accession	Qvalue
+n/a	1	E029 Primary monocytes from peripheral blood	Blood	DHS	E029-DNase.hotspot.fdr0.01.broad.bed.gz	n/a	E029	1
+n/a	1	E032 Primary B cells from peripheral blood	Blood	DHS	E032-DNase.hotspot.fdr0.01.broad.bed.gz	n/a	E032	1
+2.089	5.86e-02	E033 Primary T cells from cord blood	Blood	DHS	E033-DNase.hotspot.fdr0.01.broad.bed.gz	n/a	E033	1
+n/a	1	E034 Primary T cells from peripheral blood	Blood	DHS	E034-DNase.hotspot.fdr0.01.broad.bed.gz	n/a	E034	1
+n/a	1	E046 Primary Natural Killer cells from peripheral 	Blood	DHS	E046-DNase.hotspot.fdr0.01.broad.bed.gz	n/a	E046	1
+n/a	1	E050 Primary hematopoietic stem cells G-CSF-mobili	Blood	DHS	E050-DNase.hotspot.fdr0.01.broad.bed.gz	n/a	E050	1
+n/a	1	E051 Primary hematopoietic stem cells G-CSF-mobili	Blood	DHS	E051-DNase.hotspot.fdr0.01.broad.bed.gz	n/a	E051	1
+n/a	1	E028 Breast variant Human Mammary Epithelial Cells	Breast	DHS	E028-DNase.hotspot.fdr0.01.broad.bed.gz	n/a	E028	1
+n/a	0.000599	E003 H1 Cells	ES Cell	DHS	E003-DNase.hotspot.fdr0.01.broad.bed.gz	cg00012522,cg00169167,cg00316839,cg02751123,cg03038003,cg03078043,cg03114255,cg05543049,cg05886418,cg06349546,cg06733794,cg07803006,cg07889284,cg07951301,cg08269394,cg09478665,cg09503780,cg09885505,cg10852177,cg11183632,cg12250896,cg12345672,cg13827212,cg14051544,cg14451926,cg14632002,cg14762316,cg15343119,cg16208136,cg17114283,cg17166262,cg17324198,cg17855264,cg18020955,cg18131537,cg18275321,cg18529845,cg18532190,cg18722847,cg18778433,cg19301058,cg19602920,cg20597117,cg21001198,cg22124136,cg22608128,cg24051276,cg24057176,cg24082680,cg24783211,cg26251069,cg26972058	E003	0.0248
+n/a	1	E004 H1 BMP4 Derived Mesendoderm Cultured Cells	ES Cell	DHS	E004-DNase.hotspot.fdr0.01.broad.bed.gz	n/a	E004	1
+n/a	1	E005 H1 BMP4 Derived Trophoblast Cultured Cells	ES Cell	DHS	E005-DNase.hotspot.fdr0.01.broad.bed.gz	n/a	E005	1
+n/a	1	E006 H1 Derived Mesenchymal Stem Cells	ES Cell	DHS	E006-DNase.hotspot.fdr0.01.broad.bed.gz	n/a	E006	1
+n/a	0.000484	E007 H1 Derived Neuronal Progenitor Cultured Cells	ES Cell	DHS	E007-DNase.hotspot.fdr0.01.broad.bed.gz	cg00012522,cg00316839,cg02251027,cg02751123,cg03038003,cg03078043,cg05543049,cg05886418,cg06349546,cg06480265,cg06733794,cg07803006,cg07889284,cg07951301,cg08269394,cg09478665,cg09503780,cg09885505,cg10852177,cg11183632,cg11478320,cg12250896,cg12345672,cg13827212,cg14051544,cg14451926,cg14632002,cg14762316,cg15343119,cg16208136,cg17114283,cg17166262,cg17324198,cg17855264,cg18131537,cg18275321,cg18529845,cg18532190,cg18722847,cg18778433,cg19301058,cg19602920,cg19638398,cg20597117,cg21001198,cg22124136,cg22608128,cg23974418,cg24051276,cg24057176,cg24783211,cg26251069,cg26972058	E007	0.0248
+n/a	0.0000797	E008 H9 Cells	ES Cell	DHS	E008-DNase.hotspot.fdr0.01.broad.bed.gz	cg00012522,cg00169167,cg00316839,cg02251027,cg02751123,cg03038003,cg03078043,cg03114255,cg05543049,cg05886418,cg06349546,cg06480265,cg06733794,cg07803006,cg07889284,cg07951301,cg08269394,cg09478665,cg09503780,cg09885505,cg10852177,cg11183632,cg12250896,cg12345672,cg13827212,cg14051544,cg14451926,cg14632002,cg14762316,cg15343119,cg16208136,cg17114283,cg17166262,cg17324198,cg17855264,cg18020955,cg18131537,cg18275321,cg18529845,cg18532190,cg18722847,cg18778433,cg19301058,cg19602920,cg20597117,cg21001198,cg22124136,cg22608128,cg23974418,cg24051276,cg24057176,cg24082680,cg24783211,cg26251069,cg26972058	E008	0.0104
+n/a	1	E085 Fetal Intestine Small	Feta Intestine Small	DHS	E085-DNase.hotspot.fdr0.01.broad.bed.gz	n/a	E085	1
+n/a	1	E080 Fetal Adrenal Gland	Fetal Adrenal Gland	DHS	E080-DNase.hotspot.fdr0.01.broad.bed.gz	n/a	E080	1
+n/a	1	E081 Fetal Brain Male	Fetal Brain	DHS	E081-DNase.hotspot.fdr0.01.broad.bed.gz	n/a	E081	1
+n/a	1	E082 Fetal Brain Female	Fetal Brain	DHS	E082-DNase.hotspot.fdr0.01.broad.bed.gz	n/a	E082	1
+n/a	1	E083 Fetal Heart	Fetal Heart	DHS	E083-DNase.hotspot.fdr0.01.broad.bed.gz	n/a	E083	7.69e-01
+n/a	1	E084 Fetal Intestine Large	Fetal Intestine Large	DHS	E084-DNase.hotspot.fdr0.01.broad.bed.gz	n/a	E084	1
+n/a	1	E086 Fetal Kidney	Fetal Kidney	DHS	E086-DNase.hotspot.fdr0.01.broad.bed.gz	n/a	E086	1.00e+00
+n/a	1	E088 Fetal Lung	Fetal Lung	DHS	E088-DNase.hotspot.fdr0.01.broad.bed.gz	n/a	E088	1.00e+00
+n/a	1	E090 Fetal Muscle Leg	Fetal Muscle Leg	DHS	E090-DNase.hotspot.fdr0.01.broad.bed.gz	n/a	E090	1
+n/a	1	E089 Fetal Muscle Trunk	Fetal Muscle Trunk	DHS	E089-DNase.hotspot.fdr0.01.broad.bed.gz	n/a	E089	1
+n/a	0.000747	E092 Fetal Stomach	Fetal Stomach	DHS	E092-DNase.hotspot.fdr0.01.broad.bed.gz	cg00012522,cg02251027,cg02751123,cg03038003,cg03078043,cg03114255,cg05543049,cg05886418,cg06349546,cg06480265,cg06733794,cg07803006,cg07889284,cg07951301,cg08269394,cg09478665,cg09503780,cg09885505,cg10852177,cg11170810,cg11183632,cg12250896,cg12345672,cg13827212,cg14632002,cg14762316,cg15343119,cg16208136,cg17114283,cg17324198,cg17855264,cg18020955,cg18131537,cg18275321,cg18532190,cg18722847,cg18778433,cg19301058,cg19602920,cg19638398,cg20597117,cg20901246,cg21001198,cg22124136,cg22439241,cg22608128,cg23290482,cg23974418,cg24051276,cg24057176,cg24082680,cg24783211,cg26251069,cg26972058	E092	0.0248
+n/a	1	E093 Fetal Thymus	Fetal Thymus	DHS	E093-DNase.hotspot.fdr0.01.broad.bed.gz	n/a	E093	1
+n/a	1	E094 Gastric	Gastric	DHS	E094-DNase.hotspot.fdr0.01.broad.bed.gz	n/a	E094	2.57e-03
+n/a	0.000126	E021 iPS DF 6.9 Cells	IPS cell	DHS	E021-DNase.hotspot.fdr0.01.broad.bed.gz	cg00012522,cg00316839,cg02251027,cg02751123,cg03038003,cg03078043,cg03114255,cg05543049,cg05886418,cg06349546,cg06480265,cg06733794,cg07803006,cg07889284,cg08269394,cg09478665,cg09503780,cg09885505,cg10852177,cg11183632,cg11478320,cg12250896,cg12345672,cg13004587,cg13827212,cg14051544,cg14451926,cg14632002,cg14762316,cg15343119,cg16208136,cg17114283,cg17166262,cg17324198,cg18020955,cg18131537,cg18275321,cg18529845,cg18532190,cg18722847,cg18778433,cg19301058,cg19602920,cg20597117,cg21001198,cg22608128,cg23974418,cg24051276,cg24057176,cg24783211,cg26251069,cg26972058	E021	0.0104
+n/a	1	E022 iPS DF 19.11 Cells	IPS cell	DHS	E022-DNase.hotspot.fdr0.01.broad.bed.gz	n/a	E022	1
+n/a	1	E017 IMR90 fetal lung fibroblasts Cell Line	Lung	DHS	E017-DNase.hotspot.fdr0.01.broad.bed.gz	n/a	E017	1
+n/a	1	E097 Ovary	Ovary	DHS	E097-DNase.hotspot.fdr0.01.broad.bed.gz	n/a	E097	1.00e+00
+n/a	1	E098 Pancreas	Pancreas	DHS	E098-DNase.hotspot.fdr0.01.broad.bed.gz	n/a	E098	1
+n/a	1	E091 Placenta	Placenta	DHS	E091-DNase.hotspot.fdr0.01.broad.bed.gz	n/a	E091	1
+n/a	1	E100 Psoas Muscle	Psoas Muscle	DHS	E100-DNase.hotspot.fdr0.01.broad.bed.gz	n/a	E100	1.23e-02
+n/a	1	E055 Foreskin Fibroblast Primary Cells skin01	Skin	DHS	E055-DNase.hotspot.fdr0.01.broad.bed.gz	n/a	E055	1
+n/a	1	E056 Foreskin Fibroblast Primary Cells skin02	Skin	DHS	E056-DNase.hotspot.fdr0.01.broad.bed.gz	n/a	E056	1
+n/a	1	E057 Foreskin Keratinocyte Primary Cells skin02	Skin	DHS	E057-DNase.hotspot.fdr0.01.broad.bed.gz	n/a	E057	1
+n/a	1	E059 Foreskin Melanocyte Primary Cells skin01	Skin	DHS	E059-DNase.hotspot.fdr0.01.broad.bed.gz	n/a	E059	1
+n/a	1	E109 Small Intestine	Small Intestine	DHS	E109-DNase.hotspot.fdr0.01.broad.bed.gz	n/a	E109	1

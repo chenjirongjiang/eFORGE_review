@@ -1,0 +1,31 @@
+Zscore	Pvalue	Cell	Tissue	Datatype	File	Probe	Accession	Qvalue
+-1.073	8.77e-01	Acute_myeloid_leukemia	Bone Marrow	DHS	S005FH41.DNase.hotspot_v3.20130819.bed.gz	cg07295964	NA	1.00e+00
+-2.129	1.00e+00	DG-75_Sporadic_Burkitt_lymphoma	Cell Line	DHS	BP_DG-75_d01.DNase.hotspot_v3.20130819.bed.gz		NA	1.00e+00
+-2.213	1.00e+00	KARPAS-422_Germinal_Center_B-Cell-Like_Diffuse_Large_B-Cell_Lymphoma	Cell Line	DHS	bp_KARPAS-422_d01.DNase.hotspot_v3.20131126.bed.gz		NA	1.00e+00
+-2.100	1.00e+00	SU-DHL-5_Germinal_Center_B-Cell-Like_Diffuse_Large_B-Cell_Lymphoma	Cell Line	DHS	bp_SU-DHL-5_d01.DNase.hotspot_v3.20131126.bed.gz		NA	1.00e+00
+-2.093	1.00e+00	U-266_Multiple_myeloma	Cell Line	DHS	BP_U-266_d01.DNase.hotspot_v3.20130819.bed.gz		NA	1.00e+00
+-1.004	8.60e-01	Z-138_Mantle_cell_lymphoma	Cell Line	DHS	BP_Z-138_d01.DNase.hotspot_v3.20130819.bed.gz	cg12136608	NA	1.00e+00
+-2.218	1.00e+00	CD14_positive_CD16_negative_classical_monocyte	Cord Blood	DHS	C005PS4E.DNase.hotspot_v3.20130819.bed.gz		NA	1.00e+00
+-0.672	6.81e-01	CD34-negative_CD41-positive_CD42-positive_megakaryocyte_cell	Cord Blood	DHS	C006NS47.DNase.hotspot_v3.20130819.bed.gz	cg07295964	NA	1.00e+00
+-0.917	8.22e-01	CD14-positive_CD16-negative_classical_monocyte	Venous Blood	DHS	C001UY46.DNase.hotspot_v3.20130415.bed.gz	cg07295964	NA	1.00e+00
+-0.862	7.99e-01	CD14-positive_CD16-negative_classical_monocyte	Venous Blood	DHS	C0010K46.DNase.hotspot_v3.20130415.bed.gz	cg07295964	NA	1.00e+00
+-0.903	8.05e-01	CD14-positive_CD16-negative_classical_monocyte	Venous Blood	DHS	C0011I43.DNase.hotspot_v3.20130415.bed.gz	cg07295964	NA	1.00e+00
+-0.675	6.81e-01	CD14-positive_CD16-negative_classical_monocyte	Venous Blood	DHS	C004084E.DNase.hotspot_v3.20130415.bed.gz	cg07295964	NA	1.00e+00
+-1.248	9.24e-01	inflammatory_macrophage	Venous Blood	DHS	S001MJ4A.DNase.hotspot_v3.20130819.bed.gz	cg07295964	NA	1.00e+00
+-0.129	6.29e-01	inflammatory_macrophage	Venous Blood	DHS	S001MJ48.DNase.hotspot_v3.20130819.bed.gz	cg07295964,cg10375300	NA	1.00e+00
+-1.048	8.58e-01	macrophage_-_T_6days_B-glucan	Venous Blood	DHS	S00CTZ41.DNase.hotspot_v3.20141014.bed.gz	cg07295964	NA	1.00e+00
+-1.116	8.86e-01	macrophage_-_T_6days_B-glucan	Venous Blood	DHS	S00C0J41.DNase.hotspot_v3.20141014.bed.gz	cg07295964	NA	1.00e+00
+-2.169	1.00e+00	macrophage_-_T_6days_B-glucan	Venous Blood	DHS	S00HTF41.DNase.hotspot_v3.20141014.bed.gz		NA	1.00e+00
+-2.028	1.00e+00	macrophage_-_T_6days_B-glucan	Venous Blood	DHS	S00JS941.DNase.hotspot_v3.20141014.bed.gz		NA	1.00e+00
+-2.162	1.00e+00	macrophage_-_T_6days_LPS	Venous Blood	DHS	S00BYT41.DNase.hotspot_v3.20141014.bed.gz		NA	1.00e+00
+-2.144	1.00e+00	macrophage_-_T_6days_LPS	Venous Blood	DHS	S00CS041.DNase.hotspot_v3.20141014.bed.gz		NA	1.00e+00
+-2.248	1.00e+00	macrophage_-_T_6days_LPS	Venous Blood	DHS	S00HSH41.DNase.hotspot_v3.20141014.bed.gz		NA	1.00e+00
+-2.316	1.00e+00	macrophage_-_T_6days_LPS	Venous Blood	DHS	S00JRB41.DNase.hotspot_v3.20141014.bed.gz		NA	1.00e+00
+-0.847	7.97e-01	macrophage_-_T_6days_untreated	Venous Blood	DHS	S00BXV41.DNase.hotspot_v3.20141014.bed.gz	cg07295964	NA	1.00e+00
+-0.979	8.52e-01	macrophage_-_T_6days_untreated	Venous Blood	DHS	S00CR241.DNase.hotspot_v3.20141014.bed.gz	cg07295964	NA	1.00e+00
+-2.412	1.00e+00	macrophage_-_T_6days_untreated	Venous Blood	DHS	S00HRJ41.DNase.hotspot_v3.20141014.bed.gz		NA	1.00e+00
+-0.618	6.38e-01	macrophage_-_T_6days_untreated	Venous Blood	DHS	S00JQD41.DNase.hotspot_v3.20141014.bed.gz	cg07295964	NA	1.00e+00
+-2.727	1.00e+00	macrophage	Venous Blood	DHS	C005VG45.DNase.hotspot_v3.20130819.bed.gz		NA	1.00e+00
+-1.210	9.14e-01	macrophage	Venous Blood	DHS	C006UE47.DNase.hotspot_v3.20130819.bed.gz	cg07295964	NA	1.00e+00
+-2.438	1.00e+00	monocyte_-_T_0days	Venous Blood	DHS	S00EPZ41.DNase.hotspot_v3.20141014.bed.gz		NA	1.00e+00
+-0.918	8.25e-01	monocyte_-_T_0days	Venous Blood	DHS	S00JPF41.DNase.hotspot_v3.20141014.bed.gz	cg12136608	NA	1.00e+00
